@@ -1,0 +1,11 @@
+﻿  Flow of Control.cpp
+  Guess my Number.cpp
+  Local Varialbes.cpp
+D:\C++\How to Programm with C++\Streams Locals and Flow of Control\Streams Locals and Flow of Control\Local Varialbes.cpp(18,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++\How to Programm with C++\Streams Locals and Flow of Control\Streams Locals and Flow of Control\Local Varialbes.cpp(22,13): warning C4305: '=': truncation from 'double' to 'float'
+  Streams Locals and Flow of Control.cpp
+  Generating Code...
+Guess my Number.obj : error LNK2005: _main already defined in Flow of Control.obj
+Local Varialbes.obj : error LNK2005: _main already defined in Flow of Control.obj
+Streams Locals and Flow of Control.obj : error LNK2005: _main already defined in Flow of Control.obj
+D:\C++\How to Programm with C++\Streams Locals and Flow of Control\Debug\Streams Locals and Flow of Control.exe : fatal error LNK1169: one or more multiply defined symbols found
